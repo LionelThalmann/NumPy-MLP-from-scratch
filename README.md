@@ -1,5 +1,5 @@
 
-# NumPy MLP — From-Scratch Implementation
+# NumPy MLP: From-Scratch Implementation
 
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3.9%2B-blue.svg" alt="Python 3.9+"></a>
 
